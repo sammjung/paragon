@@ -127,7 +127,7 @@ export default function Home() {
       <Section>
         <div id="apply" className='flex items-center justify-center flex-col'>
           <Subheading className='mb-2'>Let&lsquo;s get started.</Subheading>
-          <Text className='uppercase mb-2'>Start making policy impact today.</Text>
+          <Text className='uppercase mb-2'>Make a policy impact on your community today.</Text>
         </div>
 
         <div className="flex flex-row space-x-4 justify-between">
